@@ -1,5 +1,6 @@
 # image_to_html
-This is a quick script for converting an image into html inspired by [Marisa Brantley Tweet](https://twitter.com/MarisaBrantley/status/1599236260325101568)
+This is a quick script for converting an image into html inspired by [Marisa Brantley Tweet](https://twitter.com/MarisaBrantley/status/1599236260325101568).
+The file out_html.html is the resized file in the tweet!
 
 ## Installation
 You just have python and pip in your machine, then you sould run this command to clone the repository:
